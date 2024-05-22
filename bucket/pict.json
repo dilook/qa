@@ -1,0 +1,15 @@
+{
+    "version": "3.7.4",
+    "description": "Pairwise Independent Combinatorial Testing",
+    "homepage": "https://github.com/microsoft/pict",
+    "license": "MIT",
+    "checkver": "github",
+    "bin": "pict.exe",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/microsoft/pict/releases/download/$version/pict.exe"
+            }
+        }
+    }
+}
