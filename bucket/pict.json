@@ -8,9 +8,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/microsoft/pict/releases/download/$version/pict.exe"
+                "url": "https://github.com/microsoft/pict/releases/download/v$version/pict.exe"
             }
         }
     },
-    "url": "https://github.com/microsoft/pict/releases/download/3.7.4/pict.exe"
+    "url": "https://github.com/microsoft/pict/releases/download/v3.7.4/pict.exe"
 }
