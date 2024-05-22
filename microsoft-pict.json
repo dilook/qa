@@ -1,0 +1,64 @@
+{
+    "##": "This file is a template. Fill the blanks and add or remove fields as necessary.",
+    "version": "3.7.4",
+    "description": "Pairwise Independent Combinatorial Testing",
+    "homepage": "https://github.com/microsoft/pict",
+    "license": "MIT License",
+    "url": "https://github.com/microsoft/pict/releases/download/v3.7.4/pict.exe"
+    "notes": "",
+    "architecture": {
+        "64bit": {
+            "url": "",
+            "hash": ""
+        },
+        "32bit": {
+            "url": "",
+            "hash": ""
+        },
+        "arm64": {
+            "url": "",
+            "hash": ""
+        }
+    },
+    "pre_install": "",
+    "installer": {
+        "script": ""
+    },
+    "post_install": [
+        "",
+        ""
+    ],
+    "uninstaller": {
+        "script": ""
+    },
+    "bin": "",
+    "env_add_path": [
+        "",
+        ""
+    ],
+    "persist": [
+        "",
+        ""
+    ],
+    "checkver": {
+        "url": "",
+        "regex": ""
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": ""
+            },
+            "32bit": {
+                "url": ""
+            },
+            "arm64": {
+                "url": ""
+            }
+        },
+        "hash": {
+            "url": "",
+            "regex": ""
+        }
+    }
+}
